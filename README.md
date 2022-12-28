@@ -4,4 +4,4 @@ I am Anjali from India. I am doing my master's in Data Science. I really enjoy c
 
 [![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianjali)](https://github.com/ianjali/github-readme-stats)
 
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali&show_icons=true&theme=radical)
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianjali&show_icons=true&theme=radical)
